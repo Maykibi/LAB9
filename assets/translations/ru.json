@@ -1,0 +1,10 @@
+{
+  "title": "Моё Flutter приложение",
+  "fullName": "Полное имя *",
+  "phoneNumber": "Номер телефона *",
+  "emailAddress": "Адрес электронной почты",
+  "lifeStory": "История жизни",
+  "password": "Пароль *",
+  "confirmPassword": "Подтвердите пароль *",
+  "submit": "Отправить"
+}

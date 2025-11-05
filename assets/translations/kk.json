@@ -1,0 +1,10 @@
+{
+  "title": "Менің Flutter қолданбам",
+  "fullName": "Толық аты-жөні *",
+  "phoneNumber": "Телефон нөмірі *",
+  "emailAddress": "Электрондық пошта",
+  "lifeStory": "Өмір тарихы",
+  "password": "Құпиясөз *",
+  "confirmPassword": "Құпиясөзді растаңыз *",
+  "submit": "Жіберу"
+}
