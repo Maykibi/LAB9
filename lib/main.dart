@@ -113,7 +113,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text(LocaleKeys.title.tr()),
         centerTitle: true,
-        titleTextStyle: AppTextStyles.titleStyle,
+        titleTextStyle: AppTextStyles.px12blue,
       ),
       body: Form(
         key: _formkey,

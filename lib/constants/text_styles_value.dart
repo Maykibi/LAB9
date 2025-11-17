@@ -5,8 +5,8 @@ import 'package:flutter_application_3/constants/colors.dart';
   static final TextStyle px12blue = TextStyle(
     fontFamily: 'Montserrat',
     fontWeight: FontWeight.bold,
-    fontSize: 12,
-    color: AppColors.primarycolor,
+    fontSize: 18,
+    color: AppColors.azure,
   );
   static final TextStyle superSmall = TextStyle(
     fontFamily: 'Montserrat',

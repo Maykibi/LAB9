@@ -51,7 +51,8 @@ class MyApp extends StatelessWidget {
               locale: context.locale,
               theme: ThemeData(
                 primarySwatch: Colors.blue,
-                textTheme: Typography.englishLike2018.apply(fontSizeFactor: 1.sp),
+                textTheme: Typography.englishLike2018.apply(fontSizeFactor: 1.sp,
+                bodyColor: AppColors.black,displayColor: AppColors.black),
               ),
               home: const HomePage(title: 'Registration Page'),
             ),
@@ -132,7 +133,8 @@ class _HomePageState extends State<HomePage> {
         appBar: AppBar(
           title: Text(LocaleKeys.title.tr()),
           centerTitle: true,
-          titleTextStyle: AppTextStyles.titleStyle,
+          titleTextStyle: AppTextStyles.px12blue,
+          
         ),
         body: Form(
           key: _formKey,
