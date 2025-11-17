@@ -9,7 +9,7 @@
             "name": "flutter_application_3",
             "request": "launch",
             "type": "dart",
-            "program": "lib/pages/register_page.dart"
+            "program": "lib/pages/register_page_finished.dart"
         },
         {
             "name": "flutter_application_3 (profile mode)",
